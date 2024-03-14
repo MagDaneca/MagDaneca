@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yordan Andronov</h1>
-<h3 align="center">A current student at PPMG"Akad. Nikola Obreshkov"</h3>
+<h3 align="center">A current student at PPMG"Acad. Nikola Obreshkov"</h3>
 
 - 🔭 I’m currently working on [AIDoc](https://github.com/MagDaneca/AIDoc)
 
